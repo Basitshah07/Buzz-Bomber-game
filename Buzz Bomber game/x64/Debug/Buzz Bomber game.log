@@ -1,0 +1,6 @@
+﻿  Buzz Bomber game.cpp
+D:\Projects\Buzz Bomber game\Buzz Bomber game\Buzz Bomber game.cpp(42,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Buzz Bomber game\Buzz Bomber game\Buzz Bomber game.cpp(42,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Buzz Bomber game\Buzz Bomber game\Buzz Bomber game.cpp(93,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Buzz Bomber game\Buzz Bomber game\Buzz Bomber game.cpp(129,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Buzz Bomber game.vcxproj -> D:\Projects\Buzz Bomber game\x64\Debug\Buzz Bomber game.exe
