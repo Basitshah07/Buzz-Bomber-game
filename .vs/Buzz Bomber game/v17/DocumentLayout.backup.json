@@ -14,8 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +32,7 @@
               "RelativeDocumentMoniker": "Buzz Bomber game\\Buzz Bomber game.cpp",
               "ToolTip": "D:\\Projects\\Buzz Bomber game\\Buzz Bomber game\\Buzz Bomber game.cpp",
               "RelativeToolTip": "Buzz Bomber game\\Buzz Bomber game.cpp",
-              "ViewState": "AgIAAKAAAAAA/jMzMzPrvxwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAA/jMzMzPrv6QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T11:33:55.655Z",
               "EditorCaption": ""
